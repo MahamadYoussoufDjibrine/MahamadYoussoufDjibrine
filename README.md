@@ -154,6 +154,6 @@ GitHub: <a href="https://github.com/MahamadYoussoufDjibrine">MahamadYoussoufDjib
 
 LinkedIn: <a href="https://www.linkedin.com/in/MahamadYoussoufDjibriner/">Mahamad Youssouf Djibrine</a>
 
-YouTube: (You can add your channel link here)
+YouTube: Mahamad Youssouf Djibrine
 
-Email: (Add email)
+Email: mahamadyoussoufdjibrine@gmail.com
