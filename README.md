@@ -1,54 +1,159 @@
-<h1>Hi, I'm MAHAMAD! <br/><a href="https://github.com/MahamadYoussoufDjibrine">Programmer</a>, <a href="https://www.linkedin.com/in/MahamadYoussoufDjibriner/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/MahamadYoussoufDjibrine"></a></h1>
+🧑‍💻 Hi, I'm MAHAMAD YOUSSOF DJIBRINE!
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<a href="https://github.com/MahamadYoussoufDjibrine">Software Engineer</a> •
+<a href="https://www.linkedin.com/in/MahamadYoussoufDjibriner/">Cybersecurity & AI Enthusiast</a> •
+Co-Founder of <b>TchadNova</b> (Rwanda)
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+👨‍💻 Software Development Projects
+🚑 HealthTech & AI
 
-<h2>📺 Popular Startup</h2>
+Santé Au Tchad (SAT) — Mobile Public Health App (Offline + AI)
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+Multilingual rural health education + AI symptom checker
 
-<h2> 🤳 Connect with me:</h2>
+Tech: Flutter, Python (FastAPI), TensorFlow
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Demo: — (repo private / coming soon)
 
-[twitter]: https://twitter.com/MahamadYoussoufDjibrine
-[youtube]: https://www.youtube.com/c/MahamadYoussoufDjibrine
-[instagram]: https://www.instagram.com/myd_mdou/
-[linkedin]: https://linkedin.com/in/MahamadYoussoufDjibrine
+Rural HealthMate — Offline AI Diagnostic Assistant
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI symptom & medication guide, SMS alerts
 
-Here are some ideas to get you started:
+Tech: Flutter, Python ML Models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repo: Coming soon
+
+🤖 AI & Machine Learning
+
+AI-Powered Disease Diagnosis API
+
+Flask + MongoDB + ML for cancer, heart disease, diabetes
+
+Includes image recognition for MRI/X-ray/CT
+
+Tech: Python, Flask, Scikit-learn, TensorFlow
+
+Repo: (In development)
+
+Climate-Smart Agriculture AI System
+
+AI predictions + decision engine for farmers (GCGO category)
+
+Backend in Python connected to Bolt Frontend
+
+Repo: Coming soon
+
+🛍️ E-Commerce
+
+MMagrishop (Your e-commerce store)
+
+Online shop built and maintained by you
+
+Tech: React • Tailwind • Firebase / Node backend
+
+Site: — (add link if you have one)
+
+🍲 Humanitarian / GovTech
+
+FoodBank Donation System
+
+Web platform for food donation, routing AI, real-time alerts
+
+Tech: React, TypeScript, Tailwind, Vite
+
+Live: https://foodbank-donation.netlify.app
+
+Repo: https://github.com/MahamadYoussoufDjibrine/foodbank-donation
+
+Tchad-Transparent — GovTech Anti-Corruption System
+
+Digital public services, eGov platform, multi-admin backend
+
+Inspired by Kenya eCitizen & Rwanda Irembo
+
+Tech: React, Node, MongoDB
+
+Demo: https://etchad.netlify.app
+
+🏥 Hospital & Health Management
+
+Hospital Appointment Management System (HAMS)
+
+Backend in FastAPI + TypeScript/React frontend
+
+Multi-role system (admin, patients, doctors)
+
+Repo: (in development)
+
+🧰 Tools & API Projects
+
+Data Structures & Algorithms Practice
+
+Implementations in Python
+
+Repo: https://github.com/MahamadYoussoufDjibrine
+
+E-Services API Systems (TchadNova)
+
+Authentication, payments, queue systems
+
+Tech: Node, Python, MongoDB, PostgreSQL
+
+Repos: Coming soon
+
+🏢 Startup & Company Projects (TchadNova)
+
+Government Digital Solutions
+
+Software Development for Enterprises
+
+Training Academy (Data Science, Software Engineering)
+
+E-Commerce Platforms
+
+🧠 Languages & Technologies I Use
+Programming Languages
+
+Python
+
+JavaScript / TypeScript
+
+Dart (Flutter)
+
+Java
+
+C#
+
+PHP
+
+SQL (PostgreSQL, MySQL)
+
+MongoDB Query Language
+
+Frameworks & Tools
+
+React, Vite, Next.js
+
+Node.js, Express
+
+FastAPI, Flask
+
+Flutter
+
+TensorFlow, Scikit-learn
+
+TailwindCSS
+
+Azure, Firebase
+
+GitHub Actions, Docker
+
+🤳 Connect with Me
+
+GitHub: <a href="https://github.com/MahamadYoussoufDjibrine">MahamadYoussoufDjibrine</a>
+
+LinkedIn: <a href="https://www.linkedin.com/in/MahamadYoussoufDjibriner/">Mahamad Youssouf Djibrine</a>
+
+YouTube: (You can add your channel link here)
+
+Email: (Add email)
